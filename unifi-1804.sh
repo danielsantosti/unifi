@@ -1,9 +1,5 @@
 #!/bin/bash
-# Autor: Robson Vaamonde
-# Site: www.procedimentosemti.com.br
-# Facebook: facebook.com/ProcedimentosEmTI
-# Facebook: facebook.com/BoraParaPratica
-# YouTube: youtube.com/BoraParaPratica
+# Autor: Daniel Santos
 # Data de criação: 06/01/2021
 # Data de atualização: 12/09/2021
 # Versão: 0.06
